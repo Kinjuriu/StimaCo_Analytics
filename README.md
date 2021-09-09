@@ -1,2 +1,3 @@
 # StimaCo_Analytics
-StimaCo, an energy company experiencing a customer churn in the small and medium enterprise (SME) sector and residential customers. And this code, provides some solution!
+StimaCo, an energy company is experiencing a customer churn in the small and medium enterprise (SME) sector and residential customers. This code, provides some solution!
+Using the StimaCo’s SME and residential, historical, and churn data, I can build a binary classification algorithm e.g Logistic Regression, Random Forest, Gradient Boosted Machines picking the most appropriate model based on the tradeoff between the complexity, the explanability, and the accuracy of the models to understand how churn rates are impacted by price, as well as how price correlates with other factors and help propose a discount strategy for our StimaCo’ customers.
